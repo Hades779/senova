@@ -1,3 +1,5 @@
 body{
-    background-color: black;
+    /* background-color: black; */
+    background-image: url(https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/hc_1440x810/public/media/image/2021/06/metal-slug-tactics-2367077.jpg?itok=p2JB4YUM);
+    background-size: cover;
 }
